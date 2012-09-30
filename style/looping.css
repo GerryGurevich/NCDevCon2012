@@ -1,0 +1,27 @@
+@charset "utf-8";
+body.th {
+    background-color: #A7C942;
+    color: #FFFFFF;
+    padding-bottom: 4px;
+    padding-top: 5px;
+    text-align: left;
+}
+body.td, body.th {
+    border: 1px solid #98BF21;
+    padding: 3px 7px 2px;
+}
+
+.hover {
+	cursor: hand;
+	cursor: pointer;
+}
+.show, .hide{
+	color:blue;
+	text-decoration: underline;
+	
+}
+#sqlDisplay pre{
+	background-color: #E9E4E4;
+	border: 1px solid black;
+	
+}
